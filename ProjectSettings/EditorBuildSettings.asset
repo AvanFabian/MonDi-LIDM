@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Hal1-Video-Struktur/VideoPembanding.unity
+    guid: c2ffedab62d6d4744a4fbac9e90000ea
+  - enabled: 1
+    path: Assets/Scenes/Hal2-Preview/PreviewPohonDiko.unity
+    guid: bafa25d0a11912f4f840d905512ab7f0
+  - enabled: 1
+    path: Assets/Scenes/Hal2-Preview/PreviewPohonMono.unity
+    guid: 89e80b04fa48f9749b703f85f5c73f96
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Diko-Akar.unity
+    guid: 1107d6240a607f94fb09b96b7daa6b5a
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Diko-Batang.unity
+    guid: 6c70563b2d21a284cb7fda5d05f2f59d
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Diko-Daun.unity
+    guid: 539d56f58bbe22645976ad94720fc09c
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Diko-Buah.unity
+    guid: 1ebff26fc7b692b41838be72948fde94
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Diko-Bunga.unity
+    guid: ad33edae9dd00594fbce56e1b3bd2f56
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Mono-Akar.unity
+    guid: 2b665c753d6c2ba409cc49359d492ca3
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Mono-Batang.unity
+    guid: 8b186f6dab9e5b143b1687c9fa5dd174
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Mono-Daun.unity
+    guid: c50f920d62be59240a6b0bf06dbdcc5b
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Mono-Buah.unity
+    guid: 7e572439f7592614f8b7f5badde25a72
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Mono-Bunga.unity
+    guid: 114fa27a09d1a714e8fd63e5811f139d
+  - enabled: 1
+    path: Assets/Scenes/Hal3-Struktur-Organ/Struk-Mono-Tunas.unity
+    guid: b3660cba43d98d0429cb43b9abafbe21
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Akar/Endodermis-Diko-Akar.unity
+    guid: e0e8497c3246ce94d9d43224124f06a5
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Akar/Epidermis-Diko-Akar.unity
+    guid: 98b84cafda8f6e04db7e34a51718ecd7
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Akar/Floem-Diko-Akar.unity
+    guid: 739e7ed316b8a2343a5337650727fb17
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Akar/Korteks-Diko-Akar.unity
+    guid: bd0a4f98a79d32347ade5bc356062a20
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Akar/Xylem-Diko-Akar.unity
+    guid: 097bbe0cd5667e9468b3b82308b70438
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Empulur-Diko-Batang.unity
+    guid: 48905db499271834981349e25760056a
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Epidermis-Diko-Batang.unity
+    guid: ffbeca8f4ca5b5a41b6c286a073166eb
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Floem-Diko-Batang.unity
+    guid: e549cbbc9abf26e409092a1dc5c25421
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Kolenkim-Diko-Batang.unity
+    guid: 272c916bb24ea9844b8499136d881334
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Korteks-Diko-Batang.unity
+    guid: dc7f21b96f9d3fe4388dd0a3e5c31c24
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Parenkim-Diko-Batang.unity
+    guid: 512c19c441bb23d4ca5a9bceba37c16b
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Seludang berkas pengangkut-Diko-Batang.unity
+    guid: 7975442ca65980340ab0ce3e80275a32
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Sklerenkim-Diko-Batang.unity
+    guid: d9f2d3ff7927ba24aa5e14b7c22aaa3f
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Batang/Xilem-Diko-Batang.unity
+    guid: 81ed5b3c1f055d643b7d76114ff375ed
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Daun/Epidermis atas-Diko-Daun.unity
+    guid: f97c31d4dc78a95418468edbf296524b
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Daun/Floem-Diko-Daun.unity
+    guid: 4294050ff06de8440afc2d6f780155f9
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Daun/mesofil-Diko-Daun.unity
+    guid: f14ed61f170e24745adb6f638251fd73
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Daun/stomata-Diko-Daun.unity
+    guid: a0cf229df711b7144b96e632a9150185
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Diko/Daun/Xylem-Diko-Daun.unity
+    guid: 5e8c3ffd1e017a54d9caf80db47065ce
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Akar/Endodermis-Mono-Akar.unity
+    guid: e9941bc1ecc5ddd4fa57ec7080b959e5
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Akar/Epidermis-Mono-Akar.unity
+    guid: 2b13ea1cfea4eab459681b93875500bc
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Akar/Xilem-Mono-Akar.unity
+    guid: a256f45235e805c4cb3bbf08c498c207
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Akar/Stele-Mono-Akar.unity
+    guid: c2e0660a36cf1af448b585d330408eb6
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Akar/Korteks-Mono-Akar.unity
+    guid: 25761cb14fdb6ea438820a4af6d9e591
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Berkas Pengangkut-Mono-Batang.unity
+    guid: c6f4ecd3bcbabfa40be9a599c19f4ae6
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Empulur-Mono-Batang.unity
+    guid: 2ae9e1e595385c74fb51440b2a3ef500
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Epidermis-Mono-Batang.unity
+    guid: 7b386ea37b1b0f64e9c040edd3805c42
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Floem-Mono-Batang.unity
+    guid: 2cf2f515cc8870a4e8a0e560e36ff2d6
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Jaringan dasar-Mono-Batang.unity
+    guid: 09e1bf3067d832d469b288b033fd39b6
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Sklerenkim-Mono-Batang.unity
+    guid: 4a6fd055dd9d90f48a3f3efa77ffad14
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Korteks-Mono-Batang.unity
+    guid: aac436ab989f03749be6a51f97e6983f
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Seludang berkas pengangkut-Mono-Batang.unity
+    guid: 7764ac642e2af5743861d085ec97755a
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Batang/Xilem-Mono-Batang.unity
+    guid: 664d219dede5b2d44a532a28f3733cc4
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Daun/Epidermis atas-Mono-Daun.unity
+    guid: e6c69e9566afb724f88fd27301cb5106
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Daun/MesofilSpons-Mono-Daun.unity
+    guid: 30acf9ff4b51aba40bb04dab90ceabf9
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Daun/LapisanMesofilPalisade-Mono-Daun.unity
+    guid: 83d2bbe8ff0d468498ecacfba1c51ecb
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Daun/Stoma-Mono-Daun.unity
+    guid: 4a9147fc9ea9e234a8e936cf5bf31c08
+  - enabled: 1
+    path: Assets/Scenes/Hal4-Detail-Struktur/Mono/Daun/SeludangPembuluh-Mono-Daun.unity
+    guid: 1db8a827f06b52d488fabc545795977c
+  - enabled: 1
+    path: Assets/Scenes/Hal5-StrukturAnatomi/Diko/Akar/Ana-Akar-Diko.unity
+    guid: 17138acc26df7f04d80dc8b3cb33037b
+  - enabled: 1
+    path: Assets/Scenes/Hal5-StrukturAnatomi/Diko/Batang/Ana-Batang-Diko.unity
+    guid: 4f0c7b14e5989684896ed4417ff59374
+  - enabled: 1
+    path: Assets/Scenes/Hal5-StrukturAnatomi/Diko/Daun/Ana-Daun-Diko.unity
+    guid: be0c0b8d646b0d44e85053769967073e
+  - enabled: 1
+    path: Assets/Scenes/Hal5-StrukturAnatomi/Mono/Akar/Ana-Akar-Mono.unity
+    guid: 8a557eefe1401654e9547cdd1026c95f
+  - enabled: 1
+    path: Assets/Scenes/Hal5-StrukturAnatomi/Mono/Batang/Ana-Batang-Mono.unity
+    guid: 13097b0a37206e5489cf000d8069afb9
+  - enabled: 1
+    path: Assets/Scenes/Hal5-StrukturAnatomi/Mono/Daun/Ana-Daun-Mono.unity
+    guid: c5d3633f4bf95aa4d8a08d5c148aaafa
+  m_configObjects: {}
